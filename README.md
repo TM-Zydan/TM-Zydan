@@ -45,3 +45,7 @@ Let’s connect and build something meaningful together!
 
 <h3 align="center">Let’s play a game!</h3>
 
+<picture>
+  <img alt="pacman contribution graph" src=:https://raw.githubusercontent.com/TM-Zydan/TM-Zydan/output/pacman-constribution-graph.svg'>
+</picture>
+
