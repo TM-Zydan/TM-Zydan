@@ -48,7 +48,7 @@ Let’s connect and build something meaningful together!
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kazuuuma-jpg/Kazuuuma-jpg/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kazuuuma-jpg/Kazuuuma-jpg/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TM-Zydan/TM_Zydan/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TM-Zydan/TM-Zydan/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
